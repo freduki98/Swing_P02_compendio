@@ -4,7 +4,7 @@
 
 ## Descripción. 
 
-Este proyecto fue desarrollado para automatizar la gestión de reservas online de un hotel.. Actualmente, incluye funcionalidades como el registro de reservas y se encuentra en desarrollo la opción de cancelar reservas.
+Este proyecto fue desarrollado para automatizar la gestión de reservas online de un hotel. Actualmente, incluye funcionalidades como el registro de reservas y se encuentra en desarrollo la opción de cancelar reservas.
 
 ## Contenido.
 
@@ -23,14 +23,14 @@ El proyecto surgió a partir de la necesidad del hotel de gestionar las reservas
 
 ## Despliege.
 
-- Windows: Haciendo docle click en el archivo ejecutable **(jar)** podremos ejecutar la aplicación.
-- Linea de comandos: Desde el cmd de Windows, escribe:
+- Windows: Haciendo doble click en el archivo ejecutable **(JAR)** podremos ejecutar la aplicación.
+- Linea de comandos: Desde el CMD de Windows, escribe:
 
 `java -jar nombre_del_ejecutable.jar`
 
 ## Construcción.
 
-El proyecyo fue desarrollado en Java utilizando:
+El proyecto fue desarrollado en Java utilizando:
 - **JDK:** Versión 21.0.3.
 - **IDE:** Eclipse IDE versión 4.33.0.
 - **Biblioteca principal:** Swing, para la implementación de la interfaz gráfica.
