@@ -4,23 +4,23 @@ Swing_P02_compendio
 
 ## Descripción. 
 
-Este proyecto se ha realizado para satisfacer las necesidades de un hotel para automatizar la gestión de reservas online
+Este proyecto se ha realizado para satisfacer las necesidades de un hotel para automatizar la gestión de sus reservas online.
 
 ## Contenido.
 
-Esta publicación contiene los directorios ** desarrollo **, ** ejecutable **, ** documentación técnica **, y ** documentos **
-además del archivo README.md desde el cual está leyendo esta información.
+Esta publicación contiene los directorios **desarrollo**, **ejecutable**, **documentación técnica** y **documentos**,
+además del archivo README.md desde el cual está usted leyendo esta información.
 
 ## Desarrollo.
 
-El proyecto primero se desarrollo apartir de la idea de que tenía que gestionarse las resrrvas lo mas
-sencillo posible. Se propuso la implantación de un botón en la ventana principal de la itnerfaz para que luego emergiese
-la ventana para el registro de un reserva por parte del usuario que interactua con la aplicación.
+El proyecto se desarrolló apartir de la necesidad de que el hotel quería gestionar las reservas de manera más sencilla.
+Se propuso la implantación de una interfaz gráfica sencilla y amigable, donde el usuario podía registrar una nueva reserva
+clickeando en el único botón desde la ventana principal. Esto le conducía a la ventana para el registro de la misma.
 
 ## Despliege.
 
-- Windows: Haciendo click en el archivo ejecutable (jar) podremos ejecutar la aplicación creada.
-- Linea de comandos: Desde el cmd de Windows deberemos escribir *java -jar nombre_del_ejecutable.jar* para ejecutar la app.
+- Windows: Haciendo click en el archivo ejecutable **(jar)** podremos ejecutar la aplicación.
+- Linea de comandos: Desde el cmd de Windows deberemos escribir ***java -jar nombre_del_ejecutable.jar*** para ejecutarla.
 
 ## Contrucción.
 
