@@ -1,10 +1,10 @@
 # Título del proyecto.
 
-"Gestión de Reservas para Hoteles - Swing P02"
+"Gestión de Reservas para Grand Hotel Budapest - Swing P02"
 
 ## Descripción. 
 
-Este proyecto fue desarrollado para automatizar la gestión de reservas online de un hotel, facilitando los procesos administrativos. Actualmente, incluye funcionalidades como el registro de reservas y se encuentra en desarrollo la opción de cancelar reservas.
+Este proyecto fue desarrollado para automatizar la gestión de reservas online de un hotel.. Actualmente, incluye funcionalidades como el registro de reservas y se encuentra en desarrollo la opción de cancelar reservas.
 
 ## Contenido.
 
