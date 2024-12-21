@@ -8,8 +8,14 @@ Este proyecto fue desarrollado para automatizar la gestión de reservas online d
 
 ## Contenido.
 
-Esta publicación contiene los directorios **desarrollo**, **ejecutable**, **documentación técnica** y **documentos**,
-además del archivo **README.md** desde el cual está usted leyendo esta información.
+Esta publicación contiene los directorios:
+- **desarrollo**
+- **ejecutable**
+- **documentación técnica**
+- **documentos**
+
+Además, contiene del archivo:
+- **README.md**
 
 ## Desarrollo.
 
@@ -20,7 +26,7 @@ El proyecto surgió a partir de la necesidad del hotel de gestionar las reservas
 - Windows: Haciendo docle click en el archivo ejecutable **(jar)** podremos ejecutar la aplicación.
 - Linea de comandos: Desde el cmd de Windows, escribe:
 
-`java -jar nombre_del_ejecutable.jar
+`java -jar nombre_del_ejecutable.jar`
 
 ## Construcción.
 
