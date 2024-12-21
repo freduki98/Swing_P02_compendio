@@ -9,13 +9,13 @@ Este proyecto fue desarrollado para automatizar la gestión de reservas online d
 ## Contenido.
 
 Esta publicación contiene los directorios:
-- **desarrollo**
-- **ejecutable**
-- **documentación técnica**
-- **documentos**
+- **desarrollo:** Código fuente del proyecto.
+- **ejecutable:** Archivo ejecutable de la aplicación.
+- **documentación técnica:** Archivo Doc.
+- **documentos:** Archivo de usabilidad.
 
 Además, contiene del archivo:
-- **README.md**
+- **README.md:** Este archivo de introducción.
 
 ## Desarrollo.
 
