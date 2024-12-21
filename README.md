@@ -1,4 +1,4 @@
-# Título del proyecto.
+# Título.
 
 "Gestión de Reservas para Grand Hotel Budapest - Swing P02"
 
@@ -24,7 +24,7 @@ El proyecto surgió a partir de la necesidad del hotel de gestionar las reservas
 ## Despliege.
 
 - Windows: Haciendo doble click en el archivo ejecutable **(JAR)** podremos ejecutar la aplicación.
-- Linea de comandos: Desde el CMD de Windows, escribe:
+- Linea de comandos: Desde el CMD de Windows cambiamos al directorio donde está nuestro ejecutable y escribimos:
 
 `java -jar nombre_del_ejecutable.jar`
 
